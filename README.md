@@ -1,4 +1,4 @@
-#Demo
+# Demo
 **This is a practice project**
 As time goes on, cool things might happen here.
 - More emojis :joy:
